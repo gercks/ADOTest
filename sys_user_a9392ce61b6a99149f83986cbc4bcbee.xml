@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<unload unload_date="2022-12-14 19:07:15">
+<sys_user action="INSERT_OR_UPDATE">
+<active>true</active>
+<avatar/>
+<average_daily_fte/>
+<building display_value=""/>
+<calendar_integration>1</calendar_integration>
+<city/>
+<company display_value=""/>
+<cost_center display_value=""/>
+<country/>
+<date_format/>
+<default_perspective display_value=""/>
+<department display_value=""/>
+<edu_status>faculty</edu_status>
+<email>test@test.test</email>
+<employee_number/>
+<enable_multifactor_authn>false</enable_multifactor_authn>
+<failed_attempts/>
+<first_name>Test</first_name>
+<gender/>
+<hashed_user_id>4e8e37b4ef6a96d983c2fedd8c4cc479b5687c569d712f823e0027ee19e9455b</hashed_user_id>
+<home_phone/>
+<internal_integration_user>false</internal_integration_user>
+<introduction/>
+<last_login/>
+<last_login_device/>
+<last_login_time>2022-10-17 19:56:23</last_login_time>
+<last_name>Itil</last_name>
+<last_password/>
+<ldap_server display_value=""/>
+<location display_value=""/>
+<locked_out>false</locked_out>
+<manager display_value=""/>
+<middle_name/>
+<mobile_phone/>
+<name>Test Itil</name>
+<notification>2</notification>
+<password_needs_reset>false</password_needs_reset>
+<phone/>
+<photo/>
+<preferred_language/>
+<roles/>
+<schedule display_value=""/>
+<source/>
+<sso_source/>
+<state/>
+<street/>
+<sys_class_name>sys_user</sys_class_name>
+<sys_created_by>ceg69</sys_created_by>
+<sys_created_on>2022-10-17 19:56:10</sys_created_on>
+<sys_domain>global</sys_domain>
+<sys_id>a9392ce61b6a99149f83986cbc4bcbee</sys_id>
+<sys_mod_count>2</sys_mod_count>
+<sys_updated_by>ceg69</sys_updated_by>
+<sys_updated_on>2022-12-05 17:12:17</sys_updated_on>
+<time_format/>
+<time_sheet_policy display_value=""/>
+<time_zone/>
+<title/>
+<u_account_expires/>
+<u_excluded_from_inactivity_policy>false</u_excluded_from_inactivity_policy>
+<u_has_itil_role>true</u_has_itil_role>
+<u_mgh_researcher>false</u_mgh_researcher>
+<u_notes/>
+<u_pas_keygiver>false</u_pas_keygiver>
+<u_password_expiration_date/>
+<u_positionid/>
+<u_ppd_location/>
+<u_room__cube/>
+<user_name>test.itil</user_name>
+<user_password/>
+<vip>false</vip>
+<web_service_access_only>false</web_service_access_only>
+<zip/>
+</sys_user>
+</unload>
